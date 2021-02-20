@@ -1,0 +1,16 @@
+{
+  "name": "facade-migrate",
+  "version": "0.0.1",
+  "description": "The migration tool for facade",
+  "main": "index.js",
+  "repository": "git@github.com:cellis/facade-migrate.git",
+  "author": "cellis <cameronellis.ellis@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
