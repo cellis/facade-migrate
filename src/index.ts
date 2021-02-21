@@ -1,3 +1,3 @@
-export const Migrator = (name: string) => {
-  return `Hello ${name}`;
-};
+export function sampleFunction(x: string): string {
+  return x + x;
+}
